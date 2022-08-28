@@ -65,6 +65,7 @@ Offline on Downloaded App:
 <img src="./assets/jatedownload.png" alt="Downloaded APP" title="Download">
 
 <br>
+
 ## Technologies Used
 
 - [Node.js](https://nodejs.org/en/)
