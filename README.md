@@ -16,6 +16,8 @@
 
 ## Description
 
+Progressive Web Application(PWA) that edits text online and offline. Button allows for user to download application.
+
 <br>
 
 ## Installation
