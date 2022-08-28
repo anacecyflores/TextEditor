@@ -9,7 +9,6 @@
 - [Description](#description)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Demo](#demo)
 - [Screenshots](#screenshots)
 - [Technologies Used](#technologies-used)
 - [Questions](#questions)
@@ -17,49 +16,54 @@
 
 ## Description
 
-<br> 
+<br>
 
 ## Installation
 
-[Node.js](https://nodejs.org/en/) and [MongoDB](https://www.mongodb.com/) installation required. Clone the repo and follow usage commands.
+[Node.js](https://nodejs.org/en/) installation required. Clone my repo and follow usage commands or download the application by clicking "Install Me1" button.
 
 ## Usage
 
-This application can be used locally by entering the following commands-
+This application can be used locally by opening localhost:3000-
+
+[Node.js](https://nodejs.org/en/) installation is required. Clone repo and follow usage commands.
+
+<br>
+
+## Usage
 
 Install dependencies:
 
 ```
-node server
-mongodb
-mongoose
+npm i
 ```
-
-Start the application:
-
-```
-npm server
-```
-
-## Demo
-
-[Full Video Demo]()
-
-## Screenshots
 
 <br>
-<img src="/assets/" alt=" " title="">
+
+Start the application/run the port:
+
+```
+npm start
+```
+
+<br>
+## Screenshots
+
+<img src="./assets/sw.png" alt="Service Worker Screenshot" title="Service Worker"> 
+<br>
+<img src="./assets/jate.png" alt="Console Screenshot" title="Console">
 
 ## Technologies Used
 
 - [Node.js](https://nodejs.org/en/)
-- [MongoDB](https://www.mongodb.com/)
-- [Mongoose](https://www.npmjs.com/package/mongoose)
 - [Nodemon](https://www.npmjs.com/package/nodemon)
 - [Express](https://expressjs.com/)
-- [Insomnia](https://insomnia.rest/)
+- [Webpack](https://webpack.js.org/)
+- [Babel](https://babeljs.io/)
+- [Concurrently](https://www.npmjs.com/package/concurrently)
 
 ## Questions
+
 Contact me here:
 
 <a href="mailto: anacecyflores1@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=071A2C" alt="Gmail"/></a><a href="https://www.linkedin.com/in/anacecyflores/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white&color=071A2C" alt="LinkedIn Badge"/></a><a href="https://cecy-professional-portfolio.herokuapp.com/" target="_blank"><img src="https://img.shields.io/badge/Profile-430098?style=for-the-badge&logo=heroku&logoColor=white&color=071A2C" alt="Profile Badge"/></a>
