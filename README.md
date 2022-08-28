@@ -28,6 +28,8 @@ This application can be used locally by opening localhost:3000-
 
 [Node.js](https://nodejs.org/en/) installation is required. Clone repo and follow usage commands.
 
+**[⬆ back to top](#table-of-contents)**
+
 ## Usage
 
 Install dependencies:
@@ -46,6 +48,8 @@ DEMO GIF: npm start
 <img src="./assets/localhost.gif" alt="Service Worker Screenshot" title="Service Worker"> 
 <br>
 
+**[⬆ back to top](#table-of-contents)**
+
 ## Screenshots
 
 ```
@@ -57,6 +61,8 @@ Online:
 
 <br>
 
+**[⬆ back to top](#table-of-contents)**
+
 ```
 Offline on Downloaded App:
 ```
@@ -65,6 +71,8 @@ Offline on Downloaded App:
 <img src="./assets/jatedownload.png" alt="Downloaded APP" title="Download">
 
 <br>
+
+**[⬆ back to top](#table-of-contents)**
 
 ## Technologies Used
 
@@ -75,14 +83,20 @@ Offline on Downloaded App:
 - [Babel](https://babeljs.io/)
 - [Concurrently](https://www.npmjs.com/package/concurrently)
 
+**[⬆ back to top](#table-of-contents)**
+
 ## Questions
 
 Contact me here:
 
 <a href="mailto: anacecyflores1@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=071A2C" alt="Gmail"/></a><a href="https://www.linkedin.com/in/anacecyflores/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white&color=071A2C" alt="LinkedIn Badge"/></a><a href="https://cecy-professional-portfolio.herokuapp.com/" target="_blank"><img src="https://img.shields.io/badge/Profile-430098?style=for-the-badge&logo=heroku&logoColor=white&color=071A2C" alt="Profile Badge"/></a>
 
+**[⬆ back to top](#table-of-contents)**
+
 ## License
 
 Copyright (c) 2022 Ana Cecy Flores
 
 Licensed under the [MIT](LICENSE) license.
+
+**[⬆ back to top](#table-of-contents)**
