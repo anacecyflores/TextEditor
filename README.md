@@ -18,19 +18,15 @@
 
 Progressive Web Application(PWA) that edits text online and offline. Button allows for user to download application.
 
-<br>
-
 ## Installation
 
-[Node.js](https://nodejs.org/en/) installation required. Clone my repo and follow usage commands or download the application by clicking "Install Me1" button.
+[Node.js](https://nodejs.org/en/) installation required. Clone my repo and follow usage commands or download the application by clicking "Install Me!" button.
 
 ## Usage
 
 This application can be used locally by opening localhost:3000-
 
 [Node.js](https://nodejs.org/en/) installation is required. Clone repo and follow usage commands.
-
-<br>
 
 ## Usage
 
@@ -40,21 +36,35 @@ Install dependencies:
 npm i
 ```
 
-<br>
-
 Start the application/run the port:
 
 ```
-npm start
+DEMO GIF: npm start
 ```
 
 <br>
+<img src="./assets/localhost.gif" alt="Service Worker Screenshot" title="Service Worker"> 
+<br>
+
 ## Screenshots
 
-<img src="./assets/sw.png" alt="Service Worker Screenshot" title="Service Worker"> 
-<br>
-<img src="./assets/jate.png" alt="Console Screenshot" title="Console">
+```
+Online:
+```
 
+<br>
+<img src="./assets/sw.png" alt="Service Worker Screenshot" title="Service Worker">
+
+<br>
+
+```
+Offline on Downloaded App:
+```
+
+<br>
+<img src="./assets/jatedownload.png" alt="Downloaded APP" title="Download">
+
+<br>
 ## Technologies Used
 
 - [Node.js](https://nodejs.org/en/)
