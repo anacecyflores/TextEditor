@@ -1,11 +1,11 @@
 {
-  "name": "JATE",
+  "name": "texteditor",
   "scripts": {
     "dev": "webpack-dev-server",
     "build": "webpack --mode production",
     "start": "webpack --watch"
   },
-  "author": "2U",
+  "author": "Ana Cecy Flores",
   "license": "UNLICENSED",
   "devDependencies": {
     "@babel/core": "^7.15.0",
